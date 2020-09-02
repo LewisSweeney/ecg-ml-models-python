@@ -1,2 +1,2 @@
 # Machine Learning Models for Analysing ECG Data
-Some Python that was used for getting Machine Learning Models for a Machine Learning module within university
+The Jupyter notebooks in this repository contain Python code that was written to train Machine Learning models to determine ECG classifications of data found here: https://physionet.org/challenge/2017/
